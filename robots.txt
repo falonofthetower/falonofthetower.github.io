@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://falonofthetower.github.io/sitemap.xml 

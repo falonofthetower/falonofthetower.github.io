@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: learning | The one true blog of Peter Karth]]></title>
+  <link href="http://falonofthetower.github.io/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://falonofthetower.github.io/"/>
+  <updated>2015-01-01T20:26:51-06:00</updated>
+  <id>http://falonofthetower.github.io/</id>
+  <author>
+    <name><![CDATA[Peter Karth]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reflections on time well spent]]></title>
+    <link href="http://falonofthetower.github.io/blog/2015/01/01/reflections-on-time-well-spent/"/>
+    <updated>2015-01-01T19:43:54-06:00</updated>
+    <id>http://falonofthetower.github.io/blog/2015/01/01/reflections-on-time-well-spent</id>
+    <content type="html"><![CDATA[<p>I began my descent into writing code as a lonely journey. When I say lonely I mean an venture which for all intents and purposes solo. My only friends were my tools, a handful of books, and Google. Google provided answers. Google provided many, many answers, and I beat her constantly until she gave them up. My enviroment constricted in that I had no internet access, at least none that amounted to anything. In the beginning hacking away on a smuggled copy of notepad++ I typed and there was html. Somehow to everyone around me this was magic. I created more, and found a book, and poorly crafted PHP sprung from my fingertips. Functions piled on top of functions, file followed file. I was awash in pile after pile of code and not the faintest sense of organization.</p>
+
+<p>Then I was greated by new ideas. Object Oriented Programming, and then frameworks, CodeIgniter, Laravel among the chief ones. I implemented them, but never understood them. Like the sorceror&rsquo;s apprentice playing with magicks far beyond my ken. I could follow along in the various spellbooks Google brought me, but never really understood how they worked.</p>
+
+<p>In the end I found <a href="http://gotealeaf.com">Tealeaf Academy</a>. Here at last I am going back to the basics and leanring how to develop on the web from the ground up. I won&rsquo;t say that everything I have done up to this point has been in vain. I can clearly see that I understand some of the topics more deeply than the course goes, but other aspects I lack in completeness. It is also giving a better sense of how to think as a devloper, and equipping me with the tools to get the job done.</p>
+
+<p>I&rsquo;m going to try and catalog my experiences here more fully as I go along. Post links to my projects, code snippets, and my general musings.</p>
+]]></content>
+  </entry>
+  
+</feed>
